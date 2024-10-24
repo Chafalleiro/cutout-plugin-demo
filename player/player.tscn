@@ -7,9 +7,9 @@
 [ext_resource type="Texture2D" uid="uid://sw83wbhtprar" path="res://player/img/dibujo.png" id="3_3y2ny"]
 [ext_resource type="Script" path="res://addons/bodypartcontrol/BodyPartNodeRes.gd" id="4_y5udk"]
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_g2af4"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_61qfo"]
 atlas = ExtResource("3_3y2ny")
-region = Rect2(301, 232, 48, 34)
+region = Rect2(81, 234, 62, 33)
 
 [sub_resource type="Resource" id="Resource_7d1ps"]
 script = ExtResource("4_y5udk")
@@ -18,11 +18,11 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(301, 232, 48, 34)]],
 "Up": [["res://player/img/dibujo.png", Rect2(81, 234, 62, 33)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_qeks4"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_vgu4a"]
 atlas = ExtResource("3_3y2ny")
-region = Rect2(298, 116, 59, 158)
+region = Rect2(377, 115, 85, 155)
 
 [sub_resource type="Resource" id="Resource_w2um8"]
 script = ExtResource("4_y5udk")
@@ -31,11 +31,11 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(298, 116, 59, 158)]],
 "Up": [["res://player/img/dibujo.png", Rect2(377, 115, 85, 155)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_wjypd"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_2yamq"]
 atlas = ExtResource("3_3y2ny")
-region = Rect2(60, 29, 102, 89)
+region = Rect2(66, 24, 92, 95)
 
 [sub_resource type="Resource" id="Resource_t3nft"]
 script = ExtResource("4_y5udk")
@@ -44,11 +44,11 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(60, 29, 102, 89)]],
 "Up": [["res://player/img/dibujo.png", Rect2(66, 24, 92, 95)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_fk4lx"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_3c37u"]
 atlas = ExtResource("3_3y2ny")
-region = Rect2(232, 8, 48, 24)
+region = Rect2(346, 510, 53, 40)
 
 [sub_resource type="Resource" id="Resource_7c3gn"]
 script = ExtResource("4_y5udk")
@@ -57,9 +57,9 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(232, 8, 48, 24)], ["res://player/img/dibujo.png", Rect2(296, 8, 56, 24)]],
 "Up": [["res://player/img/dibujo.png", Rect2(346, 510, 53, 40)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_etl0o"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_a8cqd"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(95, 7, 33, 16)
 
@@ -70,9 +70,9 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(95, 7, 33, 16)], ["res://player/img/dibujo.png", Rect2(133, 0, 35, 22)], ["res://player/img/dibujo.png", Rect2(177, 7, 34, 15)]],
 "Up": [["res://player/img/dibujo.png", Rect2(95, 7, 33, 16)], ["res://player/img/dibujo.png", Rect2(95, 7, 33, 16)], ["res://player/img/dibujo.png", Rect2(177, 7, 34, 15)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_5qpa5"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_j2ks0"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(162, 112, 26, 80)
 
@@ -83,9 +83,9 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(162, 112, 26, 80)]],
 "Up": [["res://player/img/dibujo.png", Rect2(162, 112, 26, 80)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_c22nw"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_rag1u"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(187, 194, 20, 89)
 
@@ -96,9 +96,9 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(187, 194, 20, 89)]],
 "Up": [["res://player/img/dibujo.png", Rect2(187, 194, 20, 89)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_06mgu"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_hpw6w"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(180, 293, 51, 56)
 
@@ -109,9 +109,9 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(180, 293, 51, 56)]],
 "Up": [["res://player/img/dibujo.png", Rect2(180, 293, 51, 56)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_0uwip"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_87hmu"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(23, 116, 26, 80)
 
@@ -122,9 +122,9 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(23, 116, 26, 80)]],
 "Up": [["res://player/img/dibujo.png", Rect2(23, 116, 26, 80)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_7t0ir"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_3cvlh"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(187, 194, 20, 89)
 
@@ -135,11 +135,11 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(187, 194, 20, 89)]],
 "Up": [["res://player/img/dibujo.png", Rect2(187, 194, 20, 89)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_k6acq"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_cv4sr"]
 atlas = ExtResource("3_3y2ny")
-region = Rect2(180, 293, 51, 56)
+region = Rect2(1, 291, 52, 58)
 
 [sub_resource type="Resource" id="Resource_ajs02"]
 script = ExtResource("4_y5udk")
@@ -148,9 +148,9 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(180, 293, 51, 56)]],
 "Up": [["res://player/img/dibujo.png", Rect2(1, 291, 52, 58)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_guxj5"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_87ne8"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(126, 285, 40, 65)
 
@@ -161,9 +161,9 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(126, 285, 40, 65)]],
 "Up": [["res://player/img/dibujo.png", Rect2(126, 285, 40, 65)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_omw2i"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_5s54s"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(132, 360, 35, 66)
 
@@ -174,9 +174,9 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(132, 360, 35, 66)]],
 "Up": [["res://player/img/dibujo.png", Rect2(132, 360, 35, 66)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_gha4a"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_qdlg5"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(137, 430, 81, 49)
 
@@ -187,9 +187,9 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(137, 430, 81, 49)]],
 "Up": [["res://player/img/dibujo.png", Rect2(137, 430, 81, 49)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_c35dv"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_5kas0"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(61, 281, 40, 66)
 
@@ -200,9 +200,9 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(61, 281, 40, 66)]],
 "Up": [["res://player/img/dibujo.png", Rect2(61, 281, 40, 66)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_rb75w"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_8eubl"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(63, 360, 35, 66)
 
@@ -213,11 +213,11 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(63, 360, 35, 66)]],
 "Up": [["res://player/img/dibujo.png", Rect2(63, 360, 35, 66)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_hax3r"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_xra6p"]
 atlas = ExtResource("3_3y2ny")
-region = Rect2(137, 430, 81, 49)
+region = Rect2(0, 432, 81, 48)
 
 [sub_resource type="Resource" id="Resource_6nat6"]
 script = ExtResource("4_y5udk")
@@ -226,7 +226,7 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(137, 430, 81, 49)]],
 "Up": [["res://player/img/dibujo.png", Rect2(0, 432, 81, 48)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
 [sub_resource type="Animation" id="Animation_uqvt8"]
 length = 0.001
@@ -3783,7 +3783,7 @@ blend_point_3/pos = Vector2(-1, 0)
 [sub_resource type="AnimationNodeTimeScale" id="AnimationNodeTimeScale_h3ukj"]
 
 [sub_resource type="AnimationNodeBlendTree" id="AnimationNodeBlendTree_xlmfg"]
-graph_offset = Vector2(-640, -226.7)
+graph_offset = Vector2(-535, -246)
 nodes/Idle/node = SubResource("AnimationNodeBlendSpace2D_n3x6v")
 nodes/Idle/position = Vector2(-127.273, 124.818)
 nodes/TimeScale/node = SubResource("AnimationNodeTimeScale_h3ukj")
@@ -3841,9 +3841,9 @@ graph_offset = Vector2(-20, -192)
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_hopgl"]
 size = Vector2(234, 436)
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_j02kp"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_brv1i"]
 atlas = ExtResource("3_3y2ny")
-region = Rect2(490, 202, 91, 93)
+region = Rect2(432, 408, 43, 58)
 
 [sub_resource type="Resource" id="Resource_bg5li"]
 script = ExtResource("4_y5udk")
@@ -3852,7 +3852,7 @@ actionDictionary = {
 "Side": [["res://player/img/dibujo.png", Rect2(490, 202, 91, 93)]],
 "Up": [["res://player/img/dibujo.png", Rect2(432, 408, 43, 58)]]
 }
-currentAction = "Side"
+currentAction = "Up"
 
 [node name="Player" type="CharacterBody2D"]
 script = ExtResource("1_tg8et")
@@ -3969,112 +3969,112 @@ script = ExtResource("2_ovh27")
 list_sprites = ExtResource("2_7bjw4")
 
 [node name="HipS" type="Sprite2D" parent="BodyPartRoot"]
-texture = SubResource("AtlasTexture_g2af4")
+texture = SubResource("AtlasTexture_61qfo")
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_7d1ps")
 
 [node name="TorsoS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(3, -92)
-texture = SubResource("AtlasTexture_qeks4")
+texture = SubResource("AtlasTexture_vgu4a")
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_w2um8")
 
 [node name="HeadS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(4, -211)
-texture = SubResource("AtlasTexture_wjypd")
+texture = SubResource("AtlasTexture_2yamq")
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_t3nft")
 
 [node name="Eyes" type="Sprite2D" parent="BodyPartRoot/HeadS"]
 position = Vector2(-1, -17)
-texture = SubResource("AtlasTexture_fk4lx")
+texture = SubResource("AtlasTexture_3c37u")
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_7c3gn")
 
 [node name="Hair" type="Sprite2D" parent="BodyPartRoot/HeadS"]
 position = Vector2(-2, -53)
-texture = SubResource("AtlasTexture_etl0o")
+texture = SubResource("AtlasTexture_a8cqd")
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_vgjve")
 
 [node name="FArmS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(67.7028, -156.407)
-texture = SubResource("AtlasTexture_5qpa5")
+texture = SubResource("AtlasTexture_j2ks0")
 offset = Vector2(0, 27)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_sw3x6")
 
 [node name="FFArmS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(67, -90)
-texture = SubResource("AtlasTexture_c22nw")
+texture = SubResource("AtlasTexture_rag1u")
 offset = Vector2(2, 30)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_ayrbw")
 
 [node name="FHandS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(73, -4)
-texture = SubResource("AtlasTexture_06mgu")
+texture = SubResource("AtlasTexture_hpw6w")
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_a5o3x")
 
 [node name="RArmS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(-66, -156)
-texture = SubResource("AtlasTexture_0uwip")
+texture = SubResource("AtlasTexture_87hmu")
 offset = Vector2(-1, 27)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_1ku3x")
 
 [node name="RFArmS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(-66, -86)
-texture = SubResource("AtlasTexture_7t0ir")
+texture = SubResource("AtlasTexture_3cvlh")
 offset = Vector2(-3, 35)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_8nhdd")
 
 [node name="RHAndS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(-69, 2)
-texture = SubResource("AtlasTexture_k6acq")
+texture = SubResource("AtlasTexture_cv4sr")
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_ajs02")
 
 [node name="FThighS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(30, 21)
-texture = SubResource("AtlasTexture_guxj5")
+texture = SubResource("AtlasTexture_87ne8")
 offset = Vector2(4, 18)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_p02r7")
 
 [node name="FLegS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(34, 66)
-texture = SubResource("AtlasTexture_omw2i")
+texture = SubResource("AtlasTexture_5s54s")
 offset = Vector2(-1, 27)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_w42a0")
 
 [node name="FFootS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(30, 143)
-texture = SubResource("AtlasTexture_gha4a")
+texture = SubResource("AtlasTexture_qdlg5")
 offset = Vector2(22, 0)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_jfph8")
 
 [node name="RThighS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(-38, 23)
-texture = SubResource("AtlasTexture_c35dv")
+texture = SubResource("AtlasTexture_5kas0")
 offset = Vector2(2, 17)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_au81e")
 
 [node name="RLegS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(-38, 77)
-texture = SubResource("AtlasTexture_rb75w")
+texture = SubResource("AtlasTexture_8eubl")
 offset = Vector2(1, 23)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_h0nsr")
 
 [node name="RFootS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(-39, 146)
-texture = SubResource("AtlasTexture_hax3r")
+texture = SubResource("AtlasTexture_xra6p")
 offset = Vector2(-6, 1)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_6nat6")
@@ -4098,7 +4098,7 @@ shape = SubResource("RectangleShape2D_hopgl")
 
 [node name="TextureButton" type="Sprite2D" parent="."]
 position = Vector2(264, -203)
-texture = SubResource("AtlasTexture_j02kp")
+texture = SubResource("AtlasTexture_brv1i")
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_bg5li")
 

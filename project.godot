@@ -13,7 +13,8 @@ config_version=5
 config/name="cutout plugin demo"
 run/main_scene="res://player/player.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
-config/icon="res://icon.svg"
+boot_splash/image="res://addons/bodypartcontrol/icons/vga_64.png"
+config/icon="res://addons/bodypartcontrol/icons/vga_64.png"
 
 [editor]
 
