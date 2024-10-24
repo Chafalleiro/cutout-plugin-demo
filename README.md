@@ -6,10 +6,12 @@ Frindestown
 
 version=0.1
 
+### [Demo tutorial](https://github.com/Chafalleiro/cutout-plugin-demo)
+
 ### This plugin adds the following to the Editor:
 
 - A custom node wich holds directions of the animation
-and can change the editor cutout parts to ease the animation.
+  and can change the editor cutout parts to ease the animation.
 - A custom Sprite2D node wich holds ans process images for the cutout animation.
 - A GUI for editing a AtlasTextures for each part and direction, similar to the SpriteFrames GUI.
 - It's somehow documented. Classes can be searched in the editor help panel.
@@ -43,25 +45,25 @@ Use **_BodypartSpriteList.list_sprites.actAction_** stored actions. You can chek
 
 ### Usage:
 
-	 func some_function():
-
-	    $Name_Of_[BodyPartRoot]_setNewSprites(ActionFromACtAction, index)
-
+     func some_function():
+    
+        $Name_Of_[BodyPartRoot]_setNewSprites(ActionFromACtAction, index)
 
 ### It has the current classes.
+
 Classes with usable nodes.
 
 - BodyPartRoot. Where group manipulation properties and methos are stored.
-- BodyPartNode. Where individual texctures and methods are stored.
 
- The following classes are listed as nodes but have no utility out of the plugin scripts.
- They are declared only to be accesible by the help system and as resources.
+- BodyPartNode. Where individual texctures and methods are stored.
+  
+  The following classes are listed as nodes but have no utility out of the plugin scripts.
+  They are declared only to be accesible by the help system and as resources.
 
 Resource classes.
 
 - BodyPartNodeRes. Resource that holds textures and the list of activable actions. Each **BodyPartNode** will have one of this.
 - BodypartSpriteList. Resource that holds the list of nodes that will be asociated with actions, and methods to make grolup changes to the textures.Each **BodyPartRoot** will have one of this.
-
 
 Editor plugin classes. Not used at runtime.
 
