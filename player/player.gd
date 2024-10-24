@@ -62,6 +62,7 @@ func get_animation_direction(direction: Vector2):
 			dir_ant = str_dir
 	return str_dir
 
+
 func _on_button_pressed() -> void:
 	#Get the texture loaded in the cutout node dictionary
 	var sw = $TextureButton.list_sprites.actionDictionary["Side"]

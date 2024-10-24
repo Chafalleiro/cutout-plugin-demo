@@ -1,4 +1,4 @@
-[gd_scene load_steps=71 format=3 uid="uid://c4ebxo4ocki42"]
+[gd_scene load_steps=72 format=3 uid="uid://c4ebxo4ocki42"]
 
 [ext_resource type="Script" path="res://addons/bodypartcontrol/bodyparts.gd" id="1_i4rk1"]
 [ext_resource type="Script" path="res://player/player.gd" id="1_tg8et"]
@@ -7,7 +7,7 @@
 [ext_resource type="Texture2D" uid="uid://sw83wbhtprar" path="res://player/img/dibujo.png" id="3_3y2ny"]
 [ext_resource type="Script" path="res://addons/bodypartcontrol/BodyPartNodeRes.gd" id="4_y5udk"]
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_1pvrv"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_g2af4"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(301, 232, 48, 34)
 
@@ -20,7 +20,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_j5hrm"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_qeks4"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(298, 116, 59, 158)
 
@@ -33,7 +33,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_5t8up"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_wjypd"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(60, 29, 102, 89)
 
@@ -46,7 +46,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_bp3uv"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_fk4lx"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(232, 8, 48, 24)
 
@@ -59,7 +59,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_vhsau"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_etl0o"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(95, 7, 33, 16)
 
@@ -72,7 +72,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_dl7my"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_5qpa5"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(162, 112, 26, 80)
 
@@ -85,7 +85,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_45xh0"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_c22nw"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(187, 194, 20, 89)
 
@@ -98,7 +98,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_anl8n"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_06mgu"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(180, 293, 51, 56)
 
@@ -111,7 +111,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_oasek"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_0uwip"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(23, 116, 26, 80)
 
@@ -124,7 +124,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_titvb"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_7t0ir"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(187, 194, 20, 89)
 
@@ -137,7 +137,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_h5ra6"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_k6acq"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(180, 293, 51, 56)
 
@@ -150,7 +150,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_cqk2s"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_guxj5"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(126, 285, 40, 65)
 
@@ -163,7 +163,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_5eb08"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_omw2i"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(132, 360, 35, 66)
 
@@ -176,7 +176,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_om2mp"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_gha4a"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(137, 430, 81, 49)
 
@@ -189,7 +189,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_v5kbm"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_c35dv"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(61, 281, 40, 66)
 
@@ -202,7 +202,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_wfcb7"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_rb75w"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(63, 360, 35, 66)
 
@@ -215,7 +215,7 @@ actionDictionary = {
 }
 currentAction = "Side"
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_vn8wh"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_hax3r"]
 atlas = ExtResource("3_3y2ny")
 region = Rect2(137, 430, 81, 49)
 
@@ -227,87 +227,6 @@ actionDictionary = {
 "Up": [["res://player/img/dibujo.png", Rect2(0, 432, 81, 48)]]
 }
 currentAction = "Side"
-
-[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_sfr1m"]
-animation = &"idle_down"
-
-[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_lq7tw"]
-animation = &"idle_right"
-
-[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_ag35m"]
-animation = &"idle_up"
-
-[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_dfhau"]
-animation = &"idle_left"
-
-[sub_resource type="AnimationNodeBlendSpace2D" id="AnimationNodeBlendSpace2D_qqa2c"]
-blend_point_0/node = SubResource("AnimationNodeAnimation_sfr1m")
-blend_point_0/pos = Vector2(0, 1)
-blend_point_1/node = SubResource("AnimationNodeAnimation_lq7tw")
-blend_point_1/pos = Vector2(1, 0)
-blend_point_2/node = SubResource("AnimationNodeAnimation_ag35m")
-blend_point_2/pos = Vector2(0, -1)
-blend_point_3/node = SubResource("AnimationNodeAnimation_dfhau")
-blend_point_3/pos = Vector2(-1, 0)
-blend_mode = 1
-
-[sub_resource type="AnimationNodeTimeScale" id="AnimationNodeTimeScale_faqvl"]
-
-[sub_resource type="AnimationNodeBlendTree" id="AnimationNodeBlendTree_pdxbk"]
-nodes/BlendSpace2D/node = SubResource("AnimationNodeBlendSpace2D_qqa2c")
-nodes/BlendSpace2D/position = Vector2(220, 160)
-nodes/TimeScale/node = SubResource("AnimationNodeTimeScale_faqvl")
-nodes/TimeScale/position = Vector2(380, 180)
-nodes/output/position = Vector2(520, 180)
-node_connections = [&"TimeScale", 0, &"BlendSpace2D", &"output", 0, &"TimeScale"]
-
-[sub_resource type="AnimationNodeTimeScale" id="AnimationNodeTimeScale_qxf5j"]
-
-[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_x266w"]
-animation = &"walk_down"
-
-[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_jybtj"]
-animation = &"walk_right"
-
-[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_xtvsc"]
-animation = &"walk_up"
-
-[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_f6ssk"]
-animation = &"walk_left"
-
-[sub_resource type="AnimationNodeBlendSpace2D" id="AnimationNodeBlendSpace2D_721mr"]
-blend_point_0/node = SubResource("AnimationNodeAnimation_x266w")
-blend_point_0/pos = Vector2(0, 1)
-blend_point_1/node = SubResource("AnimationNodeAnimation_jybtj")
-blend_point_1/pos = Vector2(1, 0)
-blend_point_2/node = SubResource("AnimationNodeAnimation_xtvsc")
-blend_point_2/pos = Vector2(0, -1)
-blend_point_3/node = SubResource("AnimationNodeAnimation_f6ssk")
-blend_point_3/pos = Vector2(-1, 0)
-blend_mode = 1
-
-[sub_resource type="AnimationNodeBlendTree" id="AnimationNodeBlendTree_ydio4"]
-nodes/TimeScale/node = SubResource("AnimationNodeTimeScale_qxf5j")
-nodes/TimeScale/position = Vector2(360, 160)
-nodes/Walk/node = SubResource("AnimationNodeBlendSpace2D_721mr")
-nodes/Walk/position = Vector2(113, 172)
-nodes/output/position = Vector2(560, 160)
-node_connections = [&"TimeScale", 0, &"Walk", &"output", 0, &"TimeScale"]
-
-[sub_resource type="AnimationNodeStateMachineTransition" id="AnimationNodeStateMachineTransition_wi33t"]
-advance_mode = 0
-
-[sub_resource type="AnimationNodeStateMachineTransition" id="AnimationNodeStateMachineTransition_xv042"]
-
-[sub_resource type="AnimationNodeStateMachineTransition" id="AnimationNodeStateMachineTransition_4c7q0"]
-
-[sub_resource type="AnimationNodeStateMachine" id="AnimationNodeStateMachine_tpy8n"]
-states/Idle/node = SubResource("AnimationNodeBlendTree_pdxbk")
-states/Idle/position = Vector2(529, 100)
-states/Walk/node = SubResource("AnimationNodeBlendTree_ydio4")
-states/Walk/position = Vector2(529, -39)
-transitions = ["Start", "Idle", SubResource("AnimationNodeStateMachineTransition_wi33t"), "Idle", "Walk", SubResource("AnimationNodeStateMachineTransition_xv042"), "Walk", "Idle", SubResource("AnimationNodeStateMachineTransition_4c7q0")]
-graph_offset = Vector2(-104, -432)
 
 [sub_resource type="Animation" id="Animation_uqvt8"]
 length = 0.001
@@ -1468,6 +1387,23 @@ tracks/31/interp = 1
 tracks/31/loop_wrap = true
 tracks/31/keys = {
 "times": PackedFloat32Array(0.0333333, 0.433333),
+"transitions": PackedFloat32Array(1, 1),
+"values": [{
+"args": ["Side", 0],
+"method": &"chng_sprt"
+}, {
+"args": ["Side", 1],
+"method": &"chng_sprt"
+}]
+}
+tracks/32/type = "method"
+tracks/32/imported = false
+tracks/32/enabled = true
+tracks/32/path = NodePath("BodyPartRoot/HeadS/Hair")
+tracks/32/interp = 1
+tracks/32/loop_wrap = true
+tracks/32/keys = {
+"times": PackedFloat32Array(0.0666667, 0.266667),
 "transitions": PackedFloat32Array(1, 1),
 "values": [{
 "args": ["Side", 0],
@@ -3822,17 +3758,101 @@ _data = {
 "walk_up": SubResource("Animation_s4u2p")
 }
 
+[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_x4fo0"]
+animation = &"idle_down"
+
+[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_qjn6u"]
+animation = &"idle_right"
+
+[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_1ifcs"]
+animation = &"idle_up"
+
+[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_jk5qd"]
+animation = &"idle_left"
+
+[sub_resource type="AnimationNodeBlendSpace2D" id="AnimationNodeBlendSpace2D_n3x6v"]
+blend_point_0/node = SubResource("AnimationNodeAnimation_x4fo0")
+blend_point_0/pos = Vector2(0, 1)
+blend_point_1/node = SubResource("AnimationNodeAnimation_qjn6u")
+blend_point_1/pos = Vector2(1, 0)
+blend_point_2/node = SubResource("AnimationNodeAnimation_1ifcs")
+blend_point_2/pos = Vector2(0, -1)
+blend_point_3/node = SubResource("AnimationNodeAnimation_jk5qd")
+blend_point_3/pos = Vector2(-1, 0)
+
+[sub_resource type="AnimationNodeTimeScale" id="AnimationNodeTimeScale_h3ukj"]
+
+[sub_resource type="AnimationNodeBlendTree" id="AnimationNodeBlendTree_xlmfg"]
+graph_offset = Vector2(-640, -226.7)
+nodes/Idle/node = SubResource("AnimationNodeBlendSpace2D_n3x6v")
+nodes/Idle/position = Vector2(-127.273, 124.818)
+nodes/TimeScale/node = SubResource("AnimationNodeTimeScale_h3ukj")
+nodes/TimeScale/position = Vector2(80, 120)
+node_connections = [&"TimeScale", 0, &"Idle", &"output", 0, &"TimeScale"]
+
+[sub_resource type="AnimationNodeTimeScale" id="AnimationNodeTimeScale_crfxc"]
+
+[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_2evhx"]
+animation = &"walk_down"
+
+[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_nx512"]
+animation = &"walk_right"
+
+[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_krris"]
+animation = &"walk_up"
+
+[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_2t6ow"]
+animation = &"walk_left"
+
+[sub_resource type="AnimationNodeBlendSpace2D" id="AnimationNodeBlendSpace2D_gfkxe"]
+blend_point_0/node = SubResource("AnimationNodeAnimation_2evhx")
+blend_point_0/pos = Vector2(0, 1)
+blend_point_1/node = SubResource("AnimationNodeAnimation_nx512")
+blend_point_1/pos = Vector2(1, 0)
+blend_point_2/node = SubResource("AnimationNodeAnimation_krris")
+blend_point_2/pos = Vector2(0, -1)
+blend_point_3/node = SubResource("AnimationNodeAnimation_2t6ow")
+blend_point_3/pos = Vector2(-1, 0)
+blend_mode = 1
+
+[sub_resource type="AnimationNodeBlendTree" id="AnimationNodeBlendTree_byx6o"]
+graph_offset = Vector2(-573, 131.1)
+nodes/TimeScale/node = SubResource("AnimationNodeTimeScale_crfxc")
+nodes/TimeScale/position = Vector2(156.364, 180.909)
+nodes/Walk/node = SubResource("AnimationNodeBlendSpace2D_gfkxe")
+nodes/Walk/position = Vector2(-33.6364, 198.182)
+node_connections = [&"TimeScale", 0, &"Walk", &"output", 0, &"TimeScale"]
+
+[sub_resource type="AnimationNodeStateMachineTransition" id="AnimationNodeStateMachineTransition_ecvhd"]
+advance_mode = 0
+
+[sub_resource type="AnimationNodeStateMachineTransition" id="AnimationNodeStateMachineTransition_os1r0"]
+
+[sub_resource type="AnimationNodeStateMachineTransition" id="AnimationNodeStateMachineTransition_jd1xe"]
+
+[sub_resource type="AnimationNodeStateMachine" id="AnimationNodeStateMachine_sdk60"]
+states/Idle/node = SubResource("AnimationNodeBlendTree_xlmfg")
+states/Idle/position = Vector2(503, 101)
+states/Walk/node = SubResource("AnimationNodeBlendTree_byx6o")
+states/Walk/position = Vector2(503, 15)
+transitions = ["Start", "Idle", SubResource("AnimationNodeStateMachineTransition_ecvhd"), "Idle", "Walk", SubResource("AnimationNodeStateMachineTransition_os1r0"), "Walk", "Idle", SubResource("AnimationNodeStateMachineTransition_jd1xe")]
+graph_offset = Vector2(-20, -192)
+
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_hopgl"]
 size = Vector2(234, 436)
 
-[sub_resource type="Resource" id="Resource_0xst2"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_j02kp"]
+atlas = ExtResource("3_3y2ny")
+region = Rect2(490, 202, 91, 93)
+
+[sub_resource type="Resource" id="Resource_bg5li"]
 script = ExtResource("4_y5udk")
 actionDictionary = {
 "Down": [["res://player/img/dibujo.png", Rect2(433, 319, 43, 58)]],
 "Side": [["res://player/img/dibujo.png", Rect2(490, 202, 91, 93)]],
 "Up": [["res://player/img/dibujo.png", Rect2(432, 408, 43, 58)]]
 }
-currentAction = ""
+currentAction = "Side"
 
 [node name="Player" type="CharacterBody2D"]
 script = ExtResource("1_tg8et")
@@ -3949,144 +3969,160 @@ script = ExtResource("2_ovh27")
 list_sprites = ExtResource("2_7bjw4")
 
 [node name="HipS" type="Sprite2D" parent="BodyPartRoot"]
-texture = SubResource("AtlasTexture_1pvrv")
+texture = SubResource("AtlasTexture_g2af4")
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_7d1ps")
 
 [node name="TorsoS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(3, -92)
-texture = SubResource("AtlasTexture_j5hrm")
+texture = SubResource("AtlasTexture_qeks4")
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_w2um8")
 
 [node name="HeadS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(4, -211)
-texture = SubResource("AtlasTexture_5t8up")
+texture = SubResource("AtlasTexture_wjypd")
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_t3nft")
 
 [node name="Eyes" type="Sprite2D" parent="BodyPartRoot/HeadS"]
 position = Vector2(-1, -17)
-texture = SubResource("AtlasTexture_bp3uv")
+texture = SubResource("AtlasTexture_fk4lx")
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_7c3gn")
 
 [node name="Hair" type="Sprite2D" parent="BodyPartRoot/HeadS"]
 position = Vector2(-2, -53)
-texture = SubResource("AtlasTexture_vhsau")
+texture = SubResource("AtlasTexture_etl0o")
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_vgjve")
 
 [node name="FArmS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(67.7028, -156.407)
-texture = SubResource("AtlasTexture_dl7my")
+texture = SubResource("AtlasTexture_5qpa5")
 offset = Vector2(0, 27)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_sw3x6")
 
 [node name="FFArmS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(67, -90)
-texture = SubResource("AtlasTexture_45xh0")
+texture = SubResource("AtlasTexture_c22nw")
 offset = Vector2(2, 30)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_ayrbw")
 
 [node name="FHandS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(73, -4)
-texture = SubResource("AtlasTexture_anl8n")
+texture = SubResource("AtlasTexture_06mgu")
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_a5o3x")
 
 [node name="RArmS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(-66, -156)
-texture = SubResource("AtlasTexture_oasek")
+texture = SubResource("AtlasTexture_0uwip")
 offset = Vector2(-1, 27)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_1ku3x")
 
 [node name="RFArmS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(-66, -86)
-texture = SubResource("AtlasTexture_titvb")
+texture = SubResource("AtlasTexture_7t0ir")
 offset = Vector2(-3, 35)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_8nhdd")
 
 [node name="RHAndS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(-69, 2)
-texture = SubResource("AtlasTexture_h5ra6")
+texture = SubResource("AtlasTexture_k6acq")
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_ajs02")
 
 [node name="FThighS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(30, 21)
-texture = SubResource("AtlasTexture_cqk2s")
+texture = SubResource("AtlasTexture_guxj5")
 offset = Vector2(4, 18)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_p02r7")
 
 [node name="FLegS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(34, 66)
-texture = SubResource("AtlasTexture_5eb08")
+texture = SubResource("AtlasTexture_omw2i")
 offset = Vector2(-1, 27)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_w42a0")
 
 [node name="FFootS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(30, 143)
-texture = SubResource("AtlasTexture_om2mp")
+texture = SubResource("AtlasTexture_gha4a")
 offset = Vector2(22, 0)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_jfph8")
 
 [node name="RThighS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(-38, 23)
-texture = SubResource("AtlasTexture_v5kbm")
+texture = SubResource("AtlasTexture_c35dv")
 offset = Vector2(2, 17)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_au81e")
 
 [node name="RLegS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(-38, 77)
-texture = SubResource("AtlasTexture_wfcb7")
+texture = SubResource("AtlasTexture_rb75w")
 offset = Vector2(1, 23)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_h0nsr")
 
 [node name="RFootS" type="Sprite2D" parent="BodyPartRoot"]
 position = Vector2(-39, 146)
-texture = SubResource("AtlasTexture_vn8wh")
+texture = SubResource("AtlasTexture_hax3r")
 offset = Vector2(-6, 1)
 script = ExtResource("1_i4rk1")
 list_sprites = SubResource("Resource_6nat6")
-
-[node name="AnimationTree" type="AnimationTree" parent="."]
-tree_root = SubResource("AnimationNodeStateMachine_tpy8n")
-advance_expression_base_node = NodePath("../AnimationPlayer")
-anim_player = NodePath("../AnimationPlayer")
-parameters/Idle/BlendSpace2D/blend_position = Vector2(0, 0)
-parameters/Idle/TimeScale/scale = 1.0
-parameters/Walk/TimeScale/scale = 1.0
-parameters/Walk/Walk/blend_position = Vector2(0, 0)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 libraries = {
 "": SubResource("AnimationLibrary_1qguu")
 }
 
+[node name="AnimationTree" type="AnimationTree" parent="."]
+tree_root = SubResource("AnimationNodeStateMachine_sdk60")
+anim_player = NodePath("../AnimationPlayer")
+parameters/Idle/Idle/blend_position = Vector2(0, 0)
+parameters/Idle/TimeScale/scale = 1.0
+parameters/Walk/TimeScale/scale = 1.0
+parameters/Walk/Walk/blend_position = Vector2(0, 0)
+
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(17, -50)
 shape = SubResource("RectangleShape2D_hopgl")
 
 [node name="TextureButton" type="Sprite2D" parent="."]
-position = Vector2(335, -156)
+position = Vector2(264, -203)
+texture = SubResource("AtlasTexture_j02kp")
 script = ExtResource("1_i4rk1")
-list_sprites = SubResource("Resource_0xst2")
+list_sprites = SubResource("Resource_bg5li")
 
 [node name="Button" type="Button" parent="."]
-offset_left = 266.0
-offset_top = -322.0
-offset_right = 339.0
-offset_bottom = -291.0
+offset_left = 368.0
+offset_top = -345.0
+offset_right = 441.0
+offset_bottom = -314.0
 text = "Click ME"
+
+[node name="Label" type="Label" parent="."]
+offset_left = 316.0
+offset_top = -282.0
+offset_right = 542.0
+offset_bottom = -87.0
+text = "This control is not in the same tree that the BodyPartRoot. In order to activate it you need to move from the  Available Node list to the Active Node list in the bottom panel of Cutout Lists."
+autowrap_mode = 3
+
+[node name="Label2" type="Label" parent="."]
+offset_left = -263.0
+offset_top = -258.0
+offset_right = -104.0
+offset_bottom = -79.0
+text = "Hair and eyes animation effects are controlled via script and called in a Method Track of the AnimationPlayer."
+autowrap_mode = 3
 
 [connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
