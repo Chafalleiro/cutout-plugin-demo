@@ -41,6 +41,8 @@ func _physics_process(delta):
 		animation_tree.set("parameters/Idle/Idle/blend_position", last_direction)
 		animation_mode.travel("Idle")
 
+## Get the animation direction, and then asociate it to a string matching an action in BodyPartRoot.
+## Then call "setNewSprites" function in [method BodyPartRoot.setNewSprites(str_dir,0)] that will change all the sprites set in the active action list.
 func get_animation_direction(direction: Vector2):
 	var norm_direction = direction.normalized()
 	var str_dir = ""
@@ -58,7 +60,7 @@ func get_animation_direction(direction: Vector2):
 		if str_dir != "":
 			#Change textures based on the "Action" set in BodyPartRoot and associated with BodyPartNode
 			#These are changed in bulk, all the textures loades in "Active nodes" list will change.
-			$BodyPartRoot.setNewSprites(str_dir,0) 
+			$BodyPartRoot.setNewSprites(str_dir,0)
 			dir_ant = str_dir
 	return str_dir
 
